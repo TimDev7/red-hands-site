@@ -3,7 +3,8 @@
 */
 
 body {
-    background-color: #3b1725;  
+    background-color: #242234;
+    color: #ffffff;
 }
 
 #nav-bar {
@@ -29,11 +30,6 @@ body {
     margin: 0;
 }
 
-.hbox {
-    display: flex;
-    gap: 8;
-}
-
-.expand {
-    flex: 1;
+main {
+    margin: auto 16px auto 16px
 }
